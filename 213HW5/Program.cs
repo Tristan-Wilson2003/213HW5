@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using _213HW5.Models;
 using _213HW5.Data;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<_213HW5Context>(options =>
@@ -9,6 +10,14 @@ builder.Services.AddDbContext<_213HW5Context>(options =>
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+
+    SeedData.Initialize(services);
+}
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

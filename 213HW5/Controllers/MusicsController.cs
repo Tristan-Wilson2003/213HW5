@@ -20,11 +20,39 @@ namespace _213HW5.Controllers
         }
 
         // GET: Musics
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string musicGenre,string searchString)
         {
-              return _context.Music != null ? 
-                          View(await _context.Music.ToListAsync()) :
-                          Problem("Entity set '_213HW5Context.Music'  is null.");
+            if (_context.Music == null)
+            {
+                return Problem("Entity set '_213HW5Context.Movie'  is null.");
+            }
+
+            // Use LINQ to get list of genres.
+            IQueryable<string> genreQuery = from m in _context.Music
+                                            orderby m.Genre
+                                            select m.Genre;
+            var mus = from m in _context.Music
+                         select m;
+
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                mus = mus.Where(s => s.Title!.Contains(searchString));
+            }
+
+            if (!string.IsNullOrEmpty(musicGenre))
+            {
+                mus = mus.Where(x => x.Genre == musicGenre);
+            }
+
+            var movieGenreVM = new MusicGenreViewModel
+            {
+                Genres = new SelectList(await genreQuery.Distinct().ToListAsync()),
+                Musics = await mus.ToListAsync()
+            };
+
+            return View(movieGenreVM);
+
+
         }
 
         // GET: Musics/Details/5
