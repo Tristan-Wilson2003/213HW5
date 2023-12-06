@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\213HW5.props" />
+</Project>
