@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\geron\Source\Repos\Tristan-Wilson2003\213HW5\213HW5
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/HelloWorld/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/HelloWorld/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
