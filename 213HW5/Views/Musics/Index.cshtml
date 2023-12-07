@@ -1,15 +1,15 @@
 ﻿@model _213HW5.Models.MusicGenreViewModel
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Admin";
 }
 
-<h1>Index</h1>
+<h1>Admin</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<form asp-controller="Movies" asp-action="Index" method="get">
+<form asp-controller="Musics" asp-action="Index" method="get">
     <p>
 
         <select asp-for="MusicGenre" asp-items="Model.Genres">

@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _213HW5
 build_property.RootNamespace = _213HW5
-build_property.ProjectDir = C:\Users\geron\source\repos\Tristan-Wilson2003\213HW5\213HW5\
+build_property.ProjectDir = C:\Users\geron\Source\Repos\Tristan-Wilson2003\213HW5\213HW5\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\geron\source\repos\Tristan-Wilson2003\213HW5\213HW5
+build_property.MSBuildProjectDirectory = C:\Users\geron\Source\Repos\Tristan-Wilson2003\213HW5\213HW5
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/HelloWorld/Index.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/HelloWorld/Welcome.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/HelloWorld/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/Home/Index.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/Home/Privacy.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/Musics/Create.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/Musics/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/Musics/Delete.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/Musics/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/Musics/Details.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/Musics/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/Musics/Edit.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/Musics/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/Musics/Index.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/Musics/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/Shared/Error.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/_ViewImports.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/_ViewStart.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geron/source/repos/Tristan-Wilson2003/213HW5/213HW5/Views/Shared/_Layout.cshtml]
+[C:/Users/geron/Source/Repos/Tristan-Wilson2003/213HW5/213HW5/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w7ckflf9k4
