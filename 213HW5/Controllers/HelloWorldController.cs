@@ -71,6 +71,22 @@ public class HelloWorldController : Controller
 
         return View(music);
     }
+    public async Task<IActionResult> Welcome(int? id)
+    {
+        if (id == null || _context2.Music == null)
+        {
+            return NotFound();
+        }
+
+        var music = await _context2.Music
+            .FirstOrDefaultAsync(m => m.Id == id);
+        if (music == null)
+        {
+            return NotFound();
+        }
+
+        return View(music);
+    }
 
     // GET: Musics/Create
     public IActionResult Create()
