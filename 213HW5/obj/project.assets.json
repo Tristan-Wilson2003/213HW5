@@ -11209,23 +11209,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\geron\\.nuget\\packages\\": {},
+    "C:\\Users\\Jeske\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\geron\\Source\\Repos\\Tristan-Wilson2003\\213HW5\\213HW5\\213HW5.csproj",
+      "projectUniqueName": "C:\\Users\\Jeske\\Source\\Repos\\Tristan-Wilson2003\\213HW5\\213HW5\\213HW5.csproj",
       "projectName": "213HW5",
-      "projectPath": "C:\\Users\\geron\\Source\\Repos\\Tristan-Wilson2003\\213HW5\\213HW5\\213HW5.csproj",
-      "packagesPath": "C:\\Users\\geron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\geron\\Source\\Repos\\Tristan-Wilson2003\\213HW5\\213HW5\\obj\\",
+      "projectPath": "C:\\Users\\Jeske\\Source\\Repos\\Tristan-Wilson2003\\213HW5\\213HW5\\213HW5.csproj",
+      "packagesPath": "C:\\Users\\Jeske\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jeske\\Source\\Repos\\Tristan-Wilson2003\\213HW5\\213HW5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\geron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jeske\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -11234,6 +11234,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
