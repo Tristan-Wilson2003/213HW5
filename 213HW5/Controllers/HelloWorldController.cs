@@ -55,7 +55,7 @@ public class HelloWorldController : Controller
     }
 
     // GET: Musics/Details/5
-    public async Task<IActionResult> Details(int? id)
+    public async Task<IActionResult> Welcome(int? id)
     {
         if (id == null || _context2.Music == null)
         {
@@ -71,7 +71,7 @@ public class HelloWorldController : Controller
 
         return View(music);
     }
-    public async Task<IActionResult> Welcome(int? id)
+    public async Task<IActionResult> Details(int? id)
     {
         if (id == null || _context2.Music == null)
         {

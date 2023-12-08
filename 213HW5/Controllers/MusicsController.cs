@@ -72,6 +72,22 @@ namespace _213HW5.Controllers
 
             return View(music);
         }
+        public async Task<IActionResult> Welcome(int? id)
+        {
+            if (id == null || _context.Music == null)
+            {
+                return NotFound();
+            }
+
+            var music = await _context.Music
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (music == null)
+            {
+                return NotFound();
+            }
+
+            return View(music);
+        }
 
         // GET: Musics/Create
         public IActionResult Create()
