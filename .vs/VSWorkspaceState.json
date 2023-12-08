@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\213HW5",
-    "\\213HW5\\Migrations"
+    "\\213HW5\\Views",
+    "\\213HW5\\Views\\Musics"
   ],
+  "SelectedNode": "\\213HW5\\Views\\Musics\\Details.cshtml",
   "PreviewInSolutionExplorer": false
 }
